@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kayode Alade</h1>
 <h3 align="center">I’m currently building Serverless IoT applications @Milsat Ltd</h3
 
-- 🌱 I’m currently learning **Golang, Kubernetes and Microservices Design**
+- 🌱 I’m currently learning **Golang, Kubernetes, TypeScript and Microservices Design**
 - 📝 I regularly write articles on [https://that-hardware-guy.hashnode.dev/](https://that-hardware-guy.hashnode.dev/)
 - 💬 Ask me about **Cloud development, IoT, DevOps and Embedded Systems.**
 - 📫 You can reach me via **kayolamide1997@gmail.com**
