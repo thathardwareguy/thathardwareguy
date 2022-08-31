@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Golang, Kubernetes and Microservices Design**
 - 📝 I regularly write articles on [https://that-hardware-guy.hashnode.dev/](https://that-hardware-guy.hashnode.dev/)
 - 💬 Ask me about **Cloud development, IoT, DevOps and Embedded Systems.**
-- 📫 How to reach me **kayolamide1997@gmail.com**
+- 📫 You can reach me via **kayolamide1997@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/that_hardware_G" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_amrit_" height="30" width="40" /></a>
